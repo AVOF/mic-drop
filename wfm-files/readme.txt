@@ -1,0 +1,1 @@
+This folder contains oscilloscope files in .wfm format. All files are named 'v{droplet_volume}_rep{repetition}.wfm', where droplet_volume is the volume in micrometres divided by 10, and repetitions are serially labelled 0-19.
